@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+.content {
+    flex: 1;
+    margin-top: 60px;
+    padding: 20px;
+    padding-bottom: 100px;
+}
+.knowledge {
+    margin-top: 15px;
+    line-height:1.5;
+
+}
+footer {
+    margin-top: auto;
+}
+.content h1 {
+    font-size:50px;
+    padding-top: 50px;
+
+}
+p {
+    padding-top:10px;
+    font-size:20px;
+}
+.knowledge li {
+    padding-top:10px;
+    font-size:20px;
+}
+.navbar .navbar-brand {
+    font-size: 25px;
+}
+
+.navbar-nav li {
+    font-size:20px;
+}
+/*.navbar.sticky-top {
+    top:0;
+    z-index: 1020;
+}*/
