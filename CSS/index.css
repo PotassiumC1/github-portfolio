@@ -10,7 +10,13 @@ body {
     padding: 20px;
     padding-bottom: 100px;
 }
+
 .knowledge {
+    margin-top: 15px;
+    line-height:1.5;
+
+}
+.interests {
     margin-top: 15px;
     line-height:1.5;
 
@@ -31,6 +37,11 @@ p {
     padding-top:10px;
     font-size:20px;
 }
+.interests li {
+    padding-top:10px;
+    font-size:20px;
+
+}
 .navbar .navbar-brand {
     font-size: 25px;
 }
@@ -42,3 +53,4 @@ p {
     top:0;
     z-index: 1020;
 }*/
+
